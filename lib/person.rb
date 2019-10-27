@@ -5,5 +5,5 @@ class Person
 end
 
 def job=(str)
-  @
+  @job = str
 end
