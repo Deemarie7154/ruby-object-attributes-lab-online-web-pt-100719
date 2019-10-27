@@ -4,4 +4,6 @@ class Person
     @job
 end
 
-def job=ztr()
+def job=(str)
+  @
+end
