@@ -7,3 +7,4 @@ end
 def job=(str)
   @job = str
 end
+end
